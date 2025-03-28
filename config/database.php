@@ -3,7 +3,7 @@
     //config conection
     $host = "localhost";
     $port = "5432"; //puerto de la base de datos en postgres
-    $dbname = "schoolar";
+    $dbname = "estudiar_casa";
     $user = "postgres";
     $password = "postgres";
 
